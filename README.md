@@ -7,7 +7,7 @@ Scrapes tech jobs from Adzuna API and saves to JSON.
 
 ```bash
 pip install requests
-python scraper.py
+python job_scraper.py
 ```
 
 Get API keys at [adzuna.com/developers](https://developer.adzuna.com/) and add them to the script.
